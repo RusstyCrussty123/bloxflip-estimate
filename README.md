@@ -7,4 +7,4 @@ The most accurate and reliable **[bloxflip](https://bloxflip.com/)** predictor *
 ![unknown](https://user-images.githubusercontent.com/61127918/173209567-b53de19f-cb4e-440b-83b7-69882489a1ca.png)
 
 # how to get bloxflipjs
-Join our **discord server** to get **bloxflipjs** and for more info on how it works: **https://discord.gg/HctArVVGhR**
+Join our **discord server** to get **bloxflipjs** and for more info on how it works: **https://discord.gg/bloxflipjs**
